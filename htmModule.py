@@ -1,7 +1,6 @@
-# Original code - Murtaza's Workshop Youtube channel
+# Credit for the idea and some parts of the module - Murtaza's Workshop Youtube channel
 
 import math
-
 import cv2
 import mediapipe as mp
 import time
