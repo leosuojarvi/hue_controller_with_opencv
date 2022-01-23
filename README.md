@@ -18,3 +18,5 @@ Hint: use your mobile phone as webcamera with for example DroidCam and place it 
 
 
 Used libraries: cv2, time, numpy, phue, mediapipe, math
+
+NOTE! Mediapipe library currently functions only with python 3.7.0!!!
