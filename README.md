@@ -4,7 +4,7 @@ Control your Philips Hue lights with your hand using webcam and OpenCV
 To use this program, you will have to connect your Hue Bridge to phue
 Guide: https://github.com/studioimaginaire/phue
 
-You will also have to add a credentials.py file containing
+You will also have to add a file named "info.py" containing
 1. bridgeIP as a string, e.g. bridgeIP = "192.168.1.100"
 2. cameraNum as an int, normally 0, e.g. cameraNum = 0
 
