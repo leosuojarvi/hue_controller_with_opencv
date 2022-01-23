@@ -17,4 +17,4 @@ Controls:
 Hint: use your mobile phone as webcamera with for example DroidCam and place it on the table with the camera facing up.
 
 
-Used libraries: cv2, time, numpy, phue
+Used libraries: cv2, time, numpy, phue, mediapipe, math
